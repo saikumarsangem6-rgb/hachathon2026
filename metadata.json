@@ -1,0 +1,5 @@
+{
+  "name": "Arena",
+  "description": "A community-powered AI model evaluation and benchmarking platform using Elo ratings.",
+  "requestFramePermissions": []
+}
